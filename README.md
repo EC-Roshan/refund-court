@@ -137,7 +137,7 @@ Switch provides the multi-agent operating environment:
 ---
 
 ## Demo Video
-- https://youtu.be/lvq7-utuPHk?si=ne32EOerG_9K7F1Y
+- https://youtu.be/fhDyZFD0tUE?si=7ZgOwcKDFJso9Swh
 
 ---
 
