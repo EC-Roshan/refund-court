@@ -1,0 +1,26 @@
+# Environment and API keys
+.env
+.env.*
+*.key
+*.pem
+*.token
+*.secret
+credentials.json
+client_secrets.json
+
+# OpenCode & LLM provider caches
+.opencode/
+opencode.json
+.cache/
+
+# Switch local runtime & state
+.switch/
+switch.db
+switch.sqlite*
+*.log
+
+# Python / system files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

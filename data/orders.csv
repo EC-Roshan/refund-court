@@ -1,0 +1,31 @@
+order_id,customer_id,store,items_billed,items_scanned_at_packing,amount_inr,delivery_fee_inr,promised_minutes,actual_minutes,status
+1035,CUST-201,Blinkit - Koramangala Store,Amul Taaza Milk 1L; Farm Fresh Eggs 6pc,Amul Taaza Milk 1L; Farm Fresh Eggs 6pc,102,20,10,12,delivered
+1036,CUST-202,Zepto - Indiranagar Darkstore,Maggi 4-Pack; Coca-Cola 750ml,Maggi 4-Pack; Coca-Cola 750ml,101,15,10,9,delivered
+1037,CUST-203,Instamart - HSR Sector 2,Tata Salt 1kg; Haldiram Bhujia 200g; Lay Classic Salted 50g,Tata Salt 1kg; Haldiram Bhujia 200g; Lay Classic Salted 50g,103,20,15,14,delivered
+1038,CUST-205,Blinkit - Whitefield Darkstore,Mother Dairy Cow Milk 500ml; Britannia Good Day 120g,Mother Dairy Cow Milk 500ml; Britannia Good Day 120g,58,15,12,11,delivered
+1039,CUST-206,Zepto - Koramangala Darkstore,Thums Up 250ml Can; Lay Classic Salted 50g,Thums Up 250ml Can; Lay Classic Salted 50g,60,15,10,13,delivered
+1040,CUST-207,Instamart - Indiranagar 100ft,Dettol Liquid Handwash Refill 675ml; Surf Excel 1kg,Dettol Liquid Handwash Refill 675ml; Surf Excel 1kg,239,25,15,17,delivered
+1041,CUST-209,Blinkit - HSR Layout Darkstore,Taj Mahal Tea 250g; Amul Butter 100g,Taj Mahal Tea 250g; Amul Butter 100g,220,20,12,12,delivered
+1042,CUST-210,Zepto - Bellandur Darkstore,Nescafe Classic Instant Coffee 50g; Amul Taaza Milk 1L,Nescafe Classic Instant Coffee 50g; Amul Taaza Milk 1L,229,15,10,11,delivered
+1043,CUST-204,Blinkit - Koramangala Store,Amul Taaza Milk 1L; Britannia White Bread 400g; Farm Fresh Eggs 6pc; Maggi 4-Pack,Farm Fresh Eggs 6pc; Maggi 4-Pack,194,20,12,15,delivered
+1044,CUST-211,Instamart - Koramangala 4th Block,Whisper Ultra Clean Wings 15pc; Epigamia Greek Yogurt 2pc,Whisper Ultra Clean Wings 15pc; Epigamia Greek Yogurt 2pc,285,20,15,14,delivered
+1045,CUST-212,Blinkit - Indiranagar Store,Fortune Refined Sunflower Oil 1L; Tata Salt 1kg,Fortune Refined Sunflower Oil 1L; Tata Salt 1kg,163,20,10,12,delivered
+1046,CUST-213,Zepto - HSR Layout Hub,Amul Butter 100g; Britannia White Bread 400g,Amul Butter 100g; Britannia White Bread 400g,95,15,10,9,delivered
+1047,CUST-214,Instamart - Bellandur Central,Aashirvaad Shudh Chakki Atta 5kg,Aashirvaad Shudh Chakki Atta 5kg,245,25,15,16,delivered
+1048,CUST-216,Blinkit - Whitefield Darkstore,Maggi 4-Pack; Lay Classic Salted 50g; Coca-Cola 750ml,Maggi 4-Pack; Lay Classic Salted 50g; Coca-Cola 750ml,121,20,12,14,delivered
+1049,CUST-217,Zepto - Indiranagar Darkstore,Mother Dairy Cow Milk 500ml; Farm Fresh Eggs 6pc,Mother Dairy Cow Milk 500ml; Farm Fresh Eggs 6pc,76,15,10,10,delivered
+1050,CUST-218,Instamart - HSR Sector 2,Haldiram Bhujia 200g; Britannia Good Day 120g,Haldiram Bhujia 200g; Britannia Good Day 120g,85,20,15,15,delivered
+1051,CUST-208,Zepto - Indiranagar Darkstore,Aashirvaad Shudh Chakki Atta 5kg; Fortune Refined Sunflower Oil 1L,Aashirvaad Shudh Chakki Atta 5kg; Fortune Refined Sunflower Oil 1L,380,30,10,45,delivered
+1052,CUST-219,Blinkit - Koramangala Store,Taj Mahal Tea 250g; Parle-G Gold 1kg,Taj Mahal Tea 250g; Parle-G Gold 1kg,240,20,12,13,delivered
+1053,CUST-221,Zepto - Bellandur Darkstore,Dettol Liquid Handwash Refill 675ml; Harpic Cleaner 500ml,Dettol Liquid Handwash Refill 675ml; Harpic Cleaner 500ml,189,20,10,12,delivered
+1054,CUST-222,Instamart - Koramangala 4th Block,Surf Excel 1kg; Comfort Fabric Conditioner 220ml,Surf Excel 1kg; Comfort Fabric Conditioner 220ml,200,20,15,16,delivered
+1055,CUST-223,Blinkit - Indiranagar Store,Amul Taaza Milk 1L; Farm Fresh Eggs 6pc; Britannia White Bread 400g,Amul Taaza Milk 1L; Farm Fresh Eggs 6pc; Britannia White Bread 400g,137,20,10,11,delivered
+1056,CUST-224,Zepto - HSR Layout Hub,Ferrero Rocher 16pc Box 200g,Ferrero Rocher 16pc Box 200g,770,25,15,13,delivered
+1057,CUST-225,Instamart - Indiranagar 100ft,Maggi 4-Pack; Thums Up 250ml Can,Maggi 4-Pack; Thums Up 250ml Can,96,20,15,14,delivered
+1058,CUST-215,Instamart - HSR Sector 2,Ferrero Rocher 16pc Box 200g; Epigamia Greek Yogurt 2pc,Ferrero Rocher 16pc Box 200g; Epigamia Greek Yogurt 2pc,890,25,15,16,delivered
+1059,CUST-226,Blinkit - Koramangala Store,Nescafe Classic Instant Coffee 50g; Amul Butter 100g,Nescafe Classic Instant Coffee 50g; Amul Butter 100g,235,20,12,13,delivered
+1060,CUST-227,Zepto - Indiranagar Darkstore,Tata Salt 1kg; Fortune Refined Sunflower Oil 1L,Tata Salt 1kg; Fortune Refined Sunflower Oil 1L,163,15,10,11,delivered
+1061,CUST-228,Instamart - Bellandur Central,Aashirvaad Shudh Chakki Atta 5kg; Amul Taaza Milk 1L,Aashirvaad Shudh Chakki Atta 5kg; Amul Taaza Milk 1L,299,25,15,17,delivered
+1062,CUST-220,Blinkit - Koramangala Store,Amul Taaza Milk 1L; Britannia White Bread 400g; Amul Butter 100g,Amul Butter 100g,149,20,12,14,delivered
+1063,CUST-229,Zepto - Koramangala Darkstore,Lay Classic Salted 50g; Coca-Cola 750ml; Farm Fresh Eggs 6pc,Lay Classic Salted 50g; Coca-Cola 750ml; Farm Fresh Eggs 6pc,113,15,10,12,delivered
+1064,CUST-230,Instamart - HSR Sector 2,Whisper Ultra Clean Wings 15pc; Dettol Liquid Handwash Refill 675ml,Whisper Ultra Clean Wings 15pc; Dettol Liquid Handwash Refill 675ml,264,20,15,15,delivered
