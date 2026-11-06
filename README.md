@@ -137,15 +137,15 @@ Switch provides the multi-agent operating environment:
 ---
 
 ## Demo Video
-- [link coming soon]
+- https://youtu.be/lvq7-utuPHk?si=ne32EOerG_9K7F1Y
 
 ---
 
 ## Team
-- Roshan Maddeshiya
-- [teammate name]
+- Roshanlal Maddheshiya
+- Arpita Thakur
 
 ---
 
 ## Track
-- **Flip the Switch Hackathon, Track 01: Best Business Workflow**
+- Flip the Switch Hackathon, Track 01: Best Business Workflow**
